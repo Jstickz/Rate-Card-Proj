@@ -11,10 +11,8 @@
 :root {
   --Orange: hsl(25, 97%, 53%);
   --White: hsl(0, 0%, 100%);
-  --Light-grey: hsl(217, 12%, 63%);
-  --Light-grey: #959eac;
-  --Dark-blue: hsl(213, 19%, 18%);
-  --Dark-blue: #252d37;
+  --Light-grey-1: hsl(217, 12%, 63%);
+  --Dark-blue-1: hsl(213, 19%, 18%);
   --Very-dark-blue: hsl(216, 12%, 8%);
 }
 
